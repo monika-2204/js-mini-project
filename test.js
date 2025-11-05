@@ -23,7 +23,8 @@ button.addEventListener("click",() =>{
     if(input==""){
         greetingText.innerText="Hello";
     }else{
-    greetingText.innerText = "Hello ," + input;
+        greetingText.innerText = "Hello ," + input;
     }
 });
+
 
