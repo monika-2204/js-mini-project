@@ -20,5 +20,10 @@ const button = document.getElementById("btn");
 button.addEventListener("click",() =>{
     const greetingText = document.getElementById("greeting");
     const input = document.getElementById("nameInput").value;
+    if(input==""){
+        greetingText.innerText="Hello";
+    }else{
     greetingText.innerText = "Hello ," + input;
+    }
 });
+
