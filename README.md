@@ -1,1 +1,3 @@
-# js-mini-project
+# greet user 
+<br>
+color change on box click
