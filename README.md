@@ -2,4 +2,4 @@
 <br>
 greet user 
 <br>
-color change on box click
+Change color of box on click
